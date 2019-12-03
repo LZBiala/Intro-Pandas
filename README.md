@@ -1,7 +1,5 @@
 # Intro-Pandas
 
-# Unit 4 | Assignment - Pandas, Pandas, Pandas
-
 ## Background
 
 The data dive continues!
